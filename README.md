@@ -5,7 +5,7 @@
 I create beautiful digital products that balance user's needs and business goals.
 
 ### Skills
-* UI Design
+* 📱 :iphone:	UI Design
 * UX Design
 * User Research
 * Wireframing
