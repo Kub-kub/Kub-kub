@@ -1,7 +1,7 @@
 
 ![I am UI/UX Designer in Lagos, Nigeria](https://media.licdn.com/dms/image/C4D16AQF20J-YyK12xQ/profile-displaybackgroundimage-shrink_350_1400/0/1659613669221?e=1701907200&v=beta&t=Gas7c0EhZ7UFKDsvnUKyYZFGwP-n5dA5feNsAlS2XpQ)
 ### Hi there 👋, my name is Kubrah
-#### I am a UI/UX Designer in Lagos,Nigeria :computer:
+#### I am a UI/UX Designer :computer: based in Lagos,Nigeria 
 #### I create beautiful digital products that balance user's needs and business goals
 
 
