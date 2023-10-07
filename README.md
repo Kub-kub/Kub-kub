@@ -5,11 +5,11 @@
 I create beautiful digital products that balance user's needs and business goals.
 
 ### Skills
-*UI Design
-*UX Design
-*User Research
-*Wireframing
-*User Testing
+* UI Design
+* UX Design
+* User Research
+* Wireframing
+* User Testing
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kub-kub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://kubrah-a.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Kubrah-Alawiye/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/k_u_b_r_a_h)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/Kubrah_alawiye)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg' alt='dribbble' height='40'>](https://dribbble.com/harbuk)  
